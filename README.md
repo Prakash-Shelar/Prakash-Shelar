@@ -29,6 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prakash-Shelar&show_icons=true&locale=en" alt="Prakash-Shelar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash-Shelar&" alt="Prakash-Shelar" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=prakash-shelar&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **Prakash-Shelar/Prakash-Shelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
